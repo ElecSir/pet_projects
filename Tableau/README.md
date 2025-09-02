@@ -6,7 +6,7 @@
 
 | № | Название дашборда | Ключевые метрики | Ссылка на дашборд |
 |---|-------------------|------------------|-------------------|
-| 1 | **Анализ телесмотрения** | Демография, часы просмотра, время начала/окончания | [View Dashboard](https://github.com/ElecSir/pet_projects/tree/main/Tableau/1.pgn) |
+| 1 | **Анализ телесмотрения** | Демография, часы просмотра, время начала/окончания | [View Dashboard](https://github.com/ElecSir/pet_projects/tree/main/Tableau/1.png) |
 | 2 | **Анализ продаж и каналов привлечения** | Объем продаж, количество клиентов, средний чек, ROI | [View Dashboard](https://public.tableau.com/views/YourDashboardName2/Dashboard2) |
 | 3 | **Анализ эффективности рекламных кампаний** | Cost, Impressions, Clicks, CTR, CPC | [View Dashboard](https://public.tableau.com/views/YourDashboardName3/Dashboard3) |
 
