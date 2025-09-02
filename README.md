@@ -12,6 +12,7 @@
 | 2 | **[Анализ Retention Rate на Python](https://github.com/ElecSir/pet_projects/tree/main/Python)** | `Python`, `Pandas`, `Matplotlib`, `Seaborn` | Retention Rate, Когортный анализ, Визуализация |
 | 3 | **[Визуализация данных в R](https://github.com/ElecSir/pet_projects/tree/main/R)** | `R`, `ggplot2`, `dplyr` | Data Visualization, Статистика, ggplot2 |
 | 4 | **[SQL: 30 практических задач](https://github.com/ElecSir/pet_projects/tree/main/SQL)** | `SQL`, `PostgreSQL` | Основы SQL, JOINs, Подзапросы, CTE, Оконные функции |
+| 5 | **[Tableau: Построение дашбордов](https://github.com/ElecSir/pet_projects/tree/main/Tableau)** | `Tableau`,  `Tableau Public`| Диаграммы, Дашборды, Параметры, Фильтры |
 
 ---
 
@@ -23,6 +24,7 @@
 *   **SQL:** PostgreSQL (подзапросы, оконные функции, CTE)
 
 **Инструменты:**
+*   Tableau
 *   Miro
 *   Jupyter Notebook
 *   RStudio
