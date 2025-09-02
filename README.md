@@ -8,7 +8,7 @@
 
 | № | Проект | Технологии | Ключевые темы |
 |---|--------|------------|---------------|
-| 1 | **[Построение иерархии метрик и Unit-экономики](https://github.com/ElecSir/pet_projects/tree/main/metrics)** | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` | LTV, CAC, Retention, Когортный анализ, Воронки |
+| 1 | **[Построение иерархии метрик и Unit-экономики](https://github.com/ElecSir/pet_projects/metrics)** | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` | LTV, CAC, Retention, Когортный анализ, Воронки |
 | 2 | **[Анализ Retention Rate на Python](https://github.com/your_username/your_repo/tree/main/project_retention)** | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `SciPy` | Retention Rate, Когортный анализ, Визуализация |
 | 3 | **[Визуализация данных в R](https://github.com/your_username/your_repo/tree/main/project_r_visualization)** | `R`, `ggplot2`, `dplyr`, `tidyr` | Data Visualization, Статистика, ggplot2 |
 | 4 | **[SQL: 30 практических задач](https://github.com/your_username/your_repo/tree/main/project_sql)** | `SQL`, `PostgreSQL` | Основы SQL, JOINs, Подзапросы, CTE, Оконные функции |
